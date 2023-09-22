@@ -4399,7 +4399,7 @@
       "group": "Viewport"
     }
   ],
-  "brand": {
+  "Brand/STAF": {
     "primary": {
       "100": {
         "value": "#E6EFF8",
@@ -4656,7 +4656,8 @@
       "Viewport/@768",
       "Viewport/@992",
       "Viewport/@1200",
-      "Viewport/@1440"
+      "Viewport/@1440",
+      "Brand/STAF"
     ]
   }
 }
