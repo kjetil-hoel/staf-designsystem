@@ -1,0 +1,48 @@
+{
+  "package": {
+    "name": {
+      "value": "@kjetil-hoel/staf-design-tokens",
+      "type": "other"
+    },
+    "private": {
+      "value": "false",
+      "type": "other"
+    },
+    "version": {
+      "value": "0.0.2",
+      "type": "other"
+    },
+    "description": {
+      "value": "",
+      "type": "other"
+    },
+    "main": {
+      "value": "index.js",
+      "type": "other"
+    },
+    "scripts": {
+      "test": {
+        "value": "echo \"Error: no test specified\" && exit 1",
+        "type": "other"
+      }
+    },
+    "author": {
+      "value": "",
+      "type": "other"
+    },
+    "license": {
+      "value": "MIT",
+      "type": "other"
+    },
+    "gitHead": {
+      "value": "231bcde4abc405d95f225e3e09b24e5d88a7d7b5",
+      "type": "other"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "package"
+    ]
+  }
+}
