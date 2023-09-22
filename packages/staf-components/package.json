@@ -1,7 +1,6 @@
 {
-	"name": "@kjetil-hoel/staf-components",
+	"name": "@staf/components",
 	"license": "MIT",
-	"private": "false",
 	"version": "0.0.2",
 	"scripts": {
 		"dev": "vite dev",
