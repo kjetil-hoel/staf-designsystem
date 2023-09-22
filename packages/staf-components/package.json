@@ -1,7 +1,7 @@
 {
 	"name": "@kjetil-hoel/staf-components",
 	"license": "MIT",
-	"version": "0.0.3",
+	"version": "0.0.6",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
@@ -17,12 +17,12 @@
 		"test:unit": "vitest"
 	},
 	"exports": {
+		"./Button": "./dist/Button/Button.svelte",
+		"./Modal": "./dist/Modal/Modal.svelte",
+		"./Select": "./dist/Select/Select.svelte",
 		".": {
 			"types": "./dist/index.d.ts",
-			"svelte": "./dist/index.js",
-			"Button": "./dist/Button/Button.svelte",
-			"Modal": "./dist/Modal/Modal.svelte",
-			"Select": "./dist/Select/Select.svelte"
+			"svelte": "./dist/index.js"
 		}
 	},
 	"files": [
