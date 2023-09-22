@@ -39,10 +39,74 @@
       "type": "other"
     }
   },
+  "STAF": {
+    "Mørk blå": {
+      "value": "#00244e",
+      "type": "color",
+      "description": "Hovedfarge, font"
+    },
+    "Lys blå": {
+      "value": "#4c76ba",
+      "type": "color"
+    },
+    "Rød": {
+      "value": "#c90b1c",
+      "type": "color"
+    },
+    "Varm rød": {
+      "value": "#bd5749",
+      "type": "color"
+    },
+    "Lyserød": {
+      "value": "#e8c9bc",
+      "type": "color"
+    },
+    "Lilla": {
+      "value": "#3c4a71",
+      "type": "color"
+    },
+    "Lys lilla": {
+      "value": "#b1b6cd",
+      "type": "color"
+    },
+    "Syrin": {
+      "value": "#edf1f8",
+      "type": "color"
+    },
+    "Advarsel gul": {
+      "value": "#f39200",
+      "type": "color"
+    },
+    "Gul": {
+      "value": "#efca8f",
+      "type": "color"
+    },
+    "Lys gul": {
+      "value": "#f7e5cb",
+      "type": "color"
+    },
+    "Sjøgrønn": {
+      "value": "#00adba",
+      "type": "color"
+    },
+    "Lys turkis": {
+      "value": "#dbebec",
+      "type": "color"
+    },
+    "Turkis": {
+      "value": "#b3d6d9",
+      "type": "color"
+    },
+    "Hvit": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "package"
+      "package",
+      "STAF"
     ]
   }
 }
