@@ -1,5 +1,6 @@
 {
   "name": "@kjetil-hoel/staf-design-tokens",
+  "private": "false",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -9,5 +10,5 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "482fa6975b83e383fc79bd501aa99927dc4e2719"
+  "gitHead": "231bcde4abc405d95f225e3e09b24e5d88a7d7b5"
 }

@@ -1,6 +1,7 @@
 {
 	"name": "@kjetil-hoel/staf-components",
 	"license": "MIT",
+	"private": "false",
 	"version": "0.0.2",
 	"scripts": {
 		"dev": "vite dev",
@@ -54,5 +55,5 @@
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"type": "module",
-	"gitHead": "482fa6975b83e383fc79bd501aa99927dc4e2719"
+	"gitHead": "231bcde4abc405d95f225e3e09b24e5d88a7d7b5"
 }
