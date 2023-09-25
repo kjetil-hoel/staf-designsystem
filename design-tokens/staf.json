@@ -3199,10 +3199,26 @@
             "type": "color"
           }
         }
-      },
-      "surface": {
-        "primary": {
-          "value": "#",
+      }
+    },
+    "surface": {
+      "primary": {
+        "light": {
+          "value": "$brand.primary.200",
+          "type": "color",
+          "description": "surface primary light\n"
+        },
+        "light hover": {
+          "value": "$brand.primary.300",
+          "type": "color",
+          "description": "surface primary light hover"
+        },
+        "light active": {
+          "value": "$brand.primary.400",
+          "type": "color"
+        },
+        "dark": {
+          "value": "$brand.primary.800",
           "type": "color"
         }
       }
