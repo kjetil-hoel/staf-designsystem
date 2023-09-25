@@ -3098,42 +3098,42 @@
       },
       "secondary": {
         "100": {
-          "value": "#DCD6EA",
+          "value": "rgba($brand.secondary.900, 0.1)",
           "type": "color",
           "description": "AAA 13.3 on grey 800\nAA 6.7 as bkdg for interaction blue"
         },
         "200": {
-          "value": "#C5BBDD",
+          "value": "rgba($brand.secondary.900, 0.2)",
           "type": "color",
           "description": "Light warning color\nAAA 12.3 on grey 800\nAA 1.1 as bkdg for interaction blue"
         },
         "300": {
-          "value": "#A392C8",
+          "value": "rgba($brand.secondary.900, 0.3)",
           "type": "color",
           "description": "AAA 10 on grey 800\nAA 5.4 as bkdg for interaction blue"
         },
         "400": {
-          "value": "#806AB4",
+          "value": "rgba($brand.secondary.900, 0.4)",
           "type": "color",
           "description": "AAA 9.2 on grey 800\nAA 4.6 as bkdg for interaction blue"
         },
         "500": {
-          "value": "#6A52A3",
+          "value": "rgba($brand.secondary.900, 0.5)",
           "type": "color",
           "description": "AAA 7.9 on grey 800\nAA18 4 as bkdg for interaction blue"
         },
         "600": {
-          "value": "#D6DAEF",
+          "value": "rgba($brand.secondary.900, 0.6)",
           "type": "color",
           "description": "AA 6.8 on grey 800\nAA18 3.4 as bkdg for interaction blue"
         },
         "700": {
-          "value": "#AEB6DC",
+          "value": "rgba($brand.secondary.900, 0.7)",
           "type": "color",
           "description": "AA 5.5 on grey 800"
         },
         "800": {
-          "value": "#8595CA",
+          "value": "rgba($brand.secondary.900, 0.8)",
           "type": "color",
           "description": "AA18 4.4 on grey 800\nAA18 3.2 on white"
         },
@@ -3145,42 +3145,42 @@
       },
       "tertiary": {
         "100": {
-          "value": "#F9D5DB",
+          "value": "rgba($brand.tertiary.900, 0.1)",
           "type": "color",
           "description": "AAA 12.9 on grey 800\nAA 6.5 as bkdg for interaction blue"
         },
         "200": {
-          "value": "#F3ABB6",
+          "value": "rgba($brand.tertiary.900, 0.2)",
           "type": "color",
           "description": "Light information color \nAAA 11.5 on grey 800\nAA 5.8 as bkdg for interaction blue"
         },
         "300": {
-          "value": "#EC8292",
+          "value": "rgba($brand.tertiary.900, 0.3)",
           "type": "color",
           "description": "AAA 9.2 on grey 800\nAA 4.6 as bkdg for interaction blue"
         },
         "400": {
-          "value": "#E6586D",
+          "value": "rgba($brand.tertiary.900, 0.4)",
           "type": "color",
           "description": "AAA 7.3 on grey 800\nAA18 3.7 as bkdg for interaction blue"
         },
         "500": {
-          "value": "#E02E49",
+          "value": "rgba($brand.tertiary.900, 0.5)",
           "type": "color",
           "description": "AA 5.8 on grey 800"
         },
         "600": {
-          "value": "#F7E5C8",
+          "value": "rgba($brand.tertiary.900, 0.6)",
           "type": "color",
           "description": "AA 4.6 on grey 800"
         },
         "700": {
-          "value": "#EFCA8F",
+          "value": "rgba($brand.tertiary.900, 0.7)",
           "type": "color",
           "description": "AA18 3.8 on grey 800"
         },
         "800": {
-          "value": "#e6ae56",
+          "value": "rgba($brand.tertiary.900, 0.8)",
           "type": "color",
           "description": "AA 5.6 on white"
         },
