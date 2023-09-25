@@ -3075,17 +3075,17 @@
         "description": "AA 5.6 on grey 800"
       },
       "600": {
-        "value": "#1A72C1",
+        "value": "#B1B6CD",
         "type": "color",
         "description": "AA 4.5 on grey 800"
       },
       "700": {
-        "value": "#0062BA",
+        "value": "#71799D",
         "type": "color",
         "description": "AA18 3.7 on grey 800"
       },
       "800": {
-        "value": "#004E95",
+        "value": "#3C4A71",
         "type": "color",
         "description": "AA 4.7 on white"
       },
@@ -3122,22 +3122,22 @@
         "description": "AAA 7.9 on grey 800\nAA18 4 as bkdg for interaction blue"
       },
       "600": {
-        "value": "#594488",
+        "value": "#D6DAEF",
         "type": "color",
         "description": "AA 6.8 on grey 800\nAA18 3.4 as bkdg for interaction blue"
       },
       "700": {
-        "value": "#3F3161",
+        "value": "#AEB6DC",
         "type": "color",
         "description": "AA 5.5 on grey 800"
       },
       "800": {
-        "value": "#352951",
+        "value": "#8595CA",
         "type": "color",
         "description": "AA18 4.4 on grey 800\nAA18 3.2 on white"
       },
       "900": {
-        "value": "#231B36",
+        "value": "#4C76BA",
         "type": "color",
         "description": "AA18 4.4 on grey 800\nAA18 3.2 on white"
       }
@@ -3169,22 +3169,22 @@
         "description": "AA 5.8 on grey 800"
       },
       "600": {
-        "value": "#B3253A",
+        "value": "#F7E5C8",
         "type": "color",
         "description": "AA 4.6 on grey 800"
       },
       "700": {
-        "value": "#861C2C",
+        "value": "#EFCA8F",
         "type": "color",
         "description": "AA18 3.8 on grey 800"
       },
       "800": {
-        "value": "#5A121D",
+        "value": "#e6ae56",
         "type": "color",
         "description": "AA 5.6 on white"
       },
       "900": {
-        "value": "#480e17",
+        "value": "#f39200",
         "type": "color",
         "description": "AA 5.6 on white"
       }
